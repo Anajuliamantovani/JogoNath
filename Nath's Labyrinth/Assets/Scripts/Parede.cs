@@ -13,4 +13,6 @@ public class Parede : MonoBehaviour
     {
         
     }
+
+   
 }

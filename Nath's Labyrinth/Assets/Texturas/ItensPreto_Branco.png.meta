@@ -1,0 +1,2984 @@
+fileFormatVersion: 2
+guid: 3ddfc1673a7dcdf4da2f7f4b750bae81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -965484788013262968
+    second: ItensPreto_Branco_0
+  - first:
+      213: -2540568321602338194
+    second: ItensPreto_Branco_1
+  - first:
+      213: -7279489389042509033
+    second: ItensPreto_Branco_2
+  - first:
+      213: -7316906040002561035
+    second: ItensPreto_Branco_3
+  - first:
+      213: 3573574445444838101
+    second: ItensPreto_Branco_4
+  - first:
+      213: 2679888654796450552
+    second: ItensPreto_Branco_5
+  - first:
+      213: 6308612859235626953
+    second: ItensPreto_Branco_6
+  - first:
+      213: -4829958752601203978
+    second: ItensPreto_Branco_7
+  - first:
+      213: -42170681693359161
+    second: ItensPreto_Branco_8
+  - first:
+      213: -4553498977949752098
+    second: ItensPreto_Branco_9
+  - first:
+      213: 7111592643820843627
+    second: ItensPreto_Branco_10
+  - first:
+      213: 4149722027655066340
+    second: ItensPreto_Branco_11
+  - first:
+      213: 9183225887722422019
+    second: ItensPreto_Branco_12
+  - first:
+      213: 5332824179306101293
+    second: ItensPreto_Branco_13
+  - first:
+      213: 3590156969284464646
+    second: ItensPreto_Branco_14
+  - first:
+      213: -3334430881995146484
+    second: ItensPreto_Branco_15
+  - first:
+      213: -2414404434087599447
+    second: ItensPreto_Branco_16
+  - first:
+      213: 3656183012331146223
+    second: ItensPreto_Branco_17
+  - first:
+      213: 3659273252375792227
+    second: ItensPreto_Branco_18
+  - first:
+      213: -9176056439886412164
+    second: ItensPreto_Branco_19
+  - first:
+      213: 2898711800053345861
+    second: ItensPreto_Branco_20
+  - first:
+      213: 8976124427166486437
+    second: ItensPreto_Branco_21
+  - first:
+      213: 1303604554541513262
+    second: ItensPreto_Branco_22
+  - first:
+      213: -404136474913587397
+    second: ItensPreto_Branco_23
+  - first:
+      213: 3416343036427459082
+    second: ItensPreto_Branco_24
+  - first:
+      213: -6977000715986708946
+    second: ItensPreto_Branco_25
+  - first:
+      213: -4529295339994664962
+    second: ItensPreto_Branco_26
+  - first:
+      213: -1824331247291703537
+    second: ItensPreto_Branco_27
+  - first:
+      213: 5999975459115632364
+    second: ItensPreto_Branco_28
+  - first:
+      213: 4052662871578275841
+    second: ItensPreto_Branco_29
+  - first:
+      213: -6978541927991583189
+    second: ItensPreto_Branco_30
+  - first:
+      213: -1175155513864114040
+    second: ItensPreto_Branco_31
+  - first:
+      213: -4688456386671213369
+    second: ItensPreto_Branco_32
+  - first:
+      213: -7619054174425419427
+    second: ItensPreto_Branco_33
+  - first:
+      213: 2192361061792225409
+    second: ItensPreto_Branco_34
+  - first:
+      213: 3356503160897893104
+    second: ItensPreto_Branco_35
+  - first:
+      213: -5807765715388313496
+    second: ItensPreto_Branco_36
+  - first:
+      213: -5700026295608340131
+    second: ItensPreto_Branco_37
+  - first:
+      213: 3506998912860594233
+    second: ItensPreto_Branco_38
+  - first:
+      213: 785514901977900162
+    second: ItensPreto_Branco_39
+  - first:
+      213: 7253408655724892194
+    second: ItensPreto_Branco_40
+  - first:
+      213: -63932917528272358
+    second: ItensPreto_Branco_41
+  - first:
+      213: 5408770810760489315
+    second: ItensPreto_Branco_42
+  - first:
+      213: 4501090114371544480
+    second: ItensPreto_Branco_43
+  - first:
+      213: 5868873268156022904
+    second: ItensPreto_Branco_44
+  - first:
+      213: -8327177051011035237
+    second: ItensPreto_Branco_45
+  - first:
+      213: -8260406744478906528
+    second: ItensPreto_Branco_46
+  - first:
+      213: 2931677944107389975
+    second: ItensPreto_Branco_47
+  - first:
+      213: 3148442497485783120
+    second: ItensPreto_Branco_48
+  - first:
+      213: 2155739010769452095
+    second: ItensPreto_Branco_49
+  - first:
+      213: -1068874656603142583
+    second: ItensPreto_Branco_50
+  - first:
+      213: 3855836118217271771
+    second: ItensPreto_Branco_51
+  - first:
+      213: 2612939359246162842
+    second: ItensPreto_Branco_52
+  - first:
+      213: -9201816711696048219
+    second: ItensPreto_Branco_53
+  - first:
+      213: -8829034090058794093
+    second: ItensPreto_Branco_54
+  - first:
+      213: 32341244551439836
+    second: ItensPreto_Branco_55
+  - first:
+      213: 8825795303972359850
+    second: ItensPreto_Branco_56
+  - first:
+      213: 1016888406675398349
+    second: ItensPreto_Branco_57
+  - first:
+      213: -517176369800361327
+    second: ItensPreto_Branco_58
+  - first:
+      213: -3393578131722803393
+    second: ItensPreto_Branco_59
+  - first:
+      213: -2511254282400982679
+    second: ItensPreto_Branco_60
+  - first:
+      213: -2565430999069706904
+    second: ItensPreto_Branco_61
+  - first:
+      213: 6992912592534980726
+    second: ItensPreto_Branco_62
+  - first:
+      213: -6239230787714600869
+    second: ItensPreto_Branco_63
+  - first:
+      213: 3492917105776966898
+    second: ItensPreto_Branco_64
+  - first:
+      213: 1525789779846016520
+    second: ItensPreto_Branco_65
+  - first:
+      213: 6422380333143325957
+    second: ItensPreto_Branco_66
+  - first:
+      213: 7594913297539822145
+    second: ItensPreto_Branco_67
+  - first:
+      213: -5157755640343066437
+    second: ItensPreto_Branco_68
+  - first:
+      213: 7748522272125059729
+    second: ItensPreto_Branco_69
+  - first:
+      213: -3530289108917379398
+    second: ItensPreto_Branco_70
+  - first:
+      213: -2103381345242775688
+    second: ItensPreto_Branco_71
+  - first:
+      213: -2043973879235892970
+    second: ItensPreto_Branco_72
+  - first:
+      213: 919747371397422692
+    second: ItensPreto_Branco_73
+  - first:
+      213: -2407889414268089799
+    second: ItensPreto_Branco_74
+  - first:
+      213: 2561235843898462395
+    second: ItensPreto_Branco_75
+  - first:
+      213: -3622388435442724740
+    second: ItensPreto_Branco_76
+  - first:
+      213: 2358929856144038898
+    second: ItensPreto_Branco_77
+  - first:
+      213: -1803419423191290470
+    second: ItensPreto_Branco_78
+  - first:
+      213: -8708361170138502098
+    second: ItensPreto_Branco_79
+  - first:
+      213: -5476936702841258818
+    second: ItensPreto_Branco_80
+  - first:
+      213: 1912723843932351688
+    second: ItensPreto_Branco_81
+  - first:
+      213: -3224775711505010859
+    second: ItensPreto_Branco_82
+  - first:
+      213: -1549409984623462417
+    second: ItensPreto_Branco_83
+  - first:
+      213: 1161479344075074511
+    second: ItensPreto_Branco_84
+  - first:
+      213: 2577633723961993343
+    second: ItensPreto_Branco_85
+  - first:
+      213: -7134512026718402158
+    second: ItensPreto_Branco_86
+  - first:
+      213: -3908007146534204814
+    second: ItensPreto_Branco_87
+  - first:
+      213: 2812902865206350679
+    second: ItensPreto_Branco_88
+  - first:
+      213: -7025458176436048878
+    second: ItensPreto_Branco_89
+  - first:
+      213: 7603670956220972522
+    second: ItensPreto_Branco_90
+  - first:
+      213: -3904010682037554911
+    second: ItensPreto_Branco_91
+  - first:
+      213: 3002365215309067460
+    second: ItensPreto_Branco_92
+  - first:
+      213: -1261940530091797611
+    second: ItensPreto_Branco_93
+  - first:
+      213: 8595219553835832956
+    second: ItensPreto_Branco_94
+  - first:
+      213: -3787116427001215174
+    second: ItensPreto_Branco_95
+  - first:
+      213: -733921202984980031
+    second: ItensPreto_Branco_96
+  - first:
+      213: 3445432689955378743
+    second: ItensPreto_Branco_97
+  - first:
+      213: -7305582956830873292
+    second: ItensPreto_Branco_98
+  - first:
+      213: 3028931353102020931
+    second: ItensPreto_Branco_99
+  - first:
+      213: 1819539539712801261
+    second: ItensPreto_Branco_100
+  - first:
+      213: 1999134695979931566
+    second: ItensPreto_Branco_101
+  - first:
+      213: -4296104368930070513
+    second: ItensPreto_Branco_102
+  - first:
+      213: 7154436261779013495
+    second: ItensPreto_Branco_103
+  - first:
+      213: 3829667122521178078
+    second: ItensPreto_Branco_104
+  - first:
+      213: 857751603142481681
+    second: ItensPreto_Branco_105
+  - first:
+      213: -4508457254747088984
+    second: ItensPreto_Branco_106
+  - first:
+      213: 1114678127368012969
+    second: ItensPreto_Branco_107
+  - first:
+      213: -4297860101417493731
+    second: ItensPreto_Branco_108
+  - first:
+      213: -5198557693366870260
+    second: ItensPreto_Branco_109
+  - first:
+      213: 7998364763682543503
+    second: ItensPreto_Branco_110
+  - first:
+      213: -3323285725625805980
+    second: ItensPreto_Branco_111
+  - first:
+      213: -611629078803479236
+    second: ItensPreto_Branco_112
+  - first:
+      213: 9126287137226482963
+    second: ItensPreto_Branco_113
+  - first:
+      213: 6688873370796939695
+    second: ItensPreto_Branco_114
+  - first:
+      213: 9214651991623773980
+    second: ItensPreto_Branco_115
+  - first:
+      213: -154084277358103498
+    second: ItensPreto_Branco_116
+  - first:
+      213: 2791157915842467794
+    second: ItensPreto_Branco_117
+  - first:
+      213: 5619126072377020955
+    second: ItensPreto_Branco_118
+  - first:
+      213: -6138652370222304155
+    second: ItensPreto_Branco_119
+  - first:
+      213: -2673900896426772980
+    second: ItensPreto_Branco_120
+  - first:
+      213: 2642273300317850529
+    second: ItensPreto_Branco_121
+  - first:
+      213: -6199324090498084701
+    second: ItensPreto_Branco_122
+  - first:
+      213: 3028318038804325309
+    second: ItensPreto_Branco_123
+  - first:
+      213: -2952839107530219057
+    second: ItensPreto_Branco_124
+  - first:
+      213: 4879236153551132831
+    second: ItensPreto_Branco_125
+  - first:
+      213: 2085549381121636679
+    second: ItensPreto_Branco_126
+  - first:
+      213: -4132597859135278074
+    second: ItensPreto_Branco_127
+  - first:
+      213: -3838151925485836913
+    second: ItensPreto_Branco_128
+  - first:
+      213: -9164506965305010833
+    second: ItensPreto_Branco_129
+  - first:
+      213: 3090508983811221979
+    second: ItensPreto_Branco_130
+  - first:
+      213: -3186278880479215740
+    second: ItensPreto_Branco_131
+  - first:
+      213: 941506154292919533
+    second: ItensPreto_Branco_132
+  - first:
+      213: -6815529496591645254
+    second: ItensPreto_Branco_133
+  - first:
+      213: -7659676529183071320
+    second: ItensPreto_Branco_134
+  - first:
+      213: -5124169429157615828
+    second: ItensPreto_Branco_135
+  - first:
+      213: 3446096903494383835
+    second: ItensPreto_Branco_136
+  - first:
+      213: 7694883794506161380
+    second: ItensPreto_Branco_137
+  - first:
+      213: -1544103994705646973
+    second: ItensPreto_Branco_138
+  - first:
+      213: 3541552882749605219
+    second: ItensPreto_Branco_139
+  - first:
+      213: 4492218256698967707
+    second: ItensPreto_Branco_140
+  - first:
+      213: 4049905601545470972
+    second: ItensPreto_Branco_141
+  - first:
+      213: -3353253988593504083
+    second: ItensPreto_Branco_142
+  - first:
+      213: -7299300756771721454
+    second: ItensPreto_Branco_143
+  - first:
+      213: 879886230590712710
+    second: ItensPreto_Branco_144
+  - first:
+      213: 1530473489711763260
+    second: ItensPreto_Branco_145
+  - first:
+      213: 6084442943485259500
+    second: ItensPreto_Branco_146
+  - first:
+      213: -5704496310827002524
+    second: ItensPreto_Branco_147
+  - first:
+      213: -1937914997336900545
+    second: ItensPreto_Branco_148
+  - first:
+      213: -2905701661337540741
+    second: ItensPreto_Branco_149
+  - first:
+      213: 1083068052873974620
+    second: ItensPreto_Branco_150
+  - first:
+      213: -902014910755545654
+    second: ItensPreto_Branco_151
+  - first:
+      213: 4851209365461581478
+    second: ItensPreto_Branco_152
+  - first:
+      213: -6992162560096149440
+    second: ItensPreto_Branco_153
+  - first:
+      213: 1467957776591922069
+    second: ItensPreto_Branco_154
+  - first:
+      213: 5535939942716025295
+    second: ItensPreto_Branco_155
+  - first:
+      213: 3863663333272181848
+    second: ItensPreto_Branco_156
+  - first:
+      213: 238899108868581512
+    second: ItensPreto_Branco_157
+  - first:
+      213: 8092960276841333174
+    second: ItensPreto_Branco_158
+  - first:
+      213: 6147078460894982200
+    second: ItensPreto_Branco_159
+  - first:
+      213: -330914586943194857
+    second: ItensPreto_Branco_160
+  - first:
+      213: 4223129059605415441
+    second: ItensPreto_Branco_161
+  - first:
+      213: -5049347827331913419
+    second: ItensPreto_Branco_162
+  - first:
+      213: 2013001213925093689
+    second: ItensPreto_Branco_163
+  - first:
+      213: 1880276942853667892
+    second: ItensPreto_Branco_164
+  - first:
+      213: 2307231917668242317
+    second: ItensPreto_Branco_165
+  - first:
+      213: 2241421321174752104
+    second: ItensPreto_Branco_166
+  - first:
+      213: 7824853553142633559
+    second: ItensPreto_Branco_167
+  - first:
+      213: 3572421990922838325
+    second: ItensPreto_Branco_168
+  - first:
+      213: -5484538837881824903
+    second: ItensPreto_Branco_169
+  - first:
+      213: 7714286018984561525
+    second: ItensPreto_Branco_170
+  - first:
+      213: -5595995112074193374
+    second: ItensPreto_Branco_171
+  - first:
+      213: 4280680159685504381
+    second: ItensPreto_Branco_172
+  - first:
+      213: -5224505895931266689
+    second: ItensPreto_Branco_173
+  - first:
+      213: 2708754046464800330
+    second: ItensPreto_Branco_174
+  - first:
+      213: -275516711034605054
+    second: ItensPreto_Branco_175
+  - first:
+      213: 7265387731785515481
+    second: ItensPreto_Branco_176
+  - first:
+      213: -1549490965803664048
+    second: ItensPreto_Branco_177
+  - first:
+      213: 8248608302876121006
+    second: ItensPreto_Branco_178
+  - first:
+      213: -6268395501006845710
+    second: ItensPreto_Branco_179
+  - first:
+      213: 2854687393207913338
+    second: ItensPreto_Branco_180
+  - first:
+      213: -4345808083827262443
+    second: ItensPreto_Branco_181
+  - first:
+      213: 3605794551901819219
+    second: ItensPreto_Branco_182
+  - first:
+      213: -4897240300797339518
+    second: ItensPreto_Branco_183
+  - first:
+      213: 4320638692030248684
+    second: ItensPreto_Branco_184
+  - first:
+      213: 5219485946314151184
+    second: ItensPreto_Branco_185
+  - first:
+      213: 8081089192135684399
+    second: ItensPreto_Branco_186
+  - first:
+      213: -1320491159641043505
+    second: ItensPreto_Branco_187
+  - first:
+      213: -6719121349809481688
+    second: ItensPreto_Branco_188
+  - first:
+      213: -1975421424396162328
+    second: ItensPreto_Branco_189
+  - first:
+      213: -5594366950594916718
+    second: ItensPreto_Branco_190
+  - first:
+      213: 7323278972756291676
+    second: ItensPreto_Branco_191
+  - first:
+      213: -6522899807496416398
+    second: ItensPreto_Branco_192
+  - first:
+      213: 1888112109100873203
+    second: ItensPreto_Branco_193
+  - first:
+      213: -610262658284597050
+    second: ItensPreto_Branco_194
+  - first:
+      213: -5587958077390261205
+    second: ItensPreto_Branco_195
+  - first:
+      213: 7333413634186409063
+    second: ItensPreto_Branco_196
+  - first:
+      213: -5090942803134950370
+    second: ItensPreto_Branco_197
+  - first:
+      213: 4828156708406508320
+    second: ItensPreto_Branco_198
+  - first:
+      213: -2970327600757062943
+    second: ItensPreto_Branco_199
+  - first:
+      213: -5769748754399837402
+    second: ItensPreto_Branco_200
+  - first:
+      213: -2731726944416276747
+    second: ItensPreto_Branco_201
+  - first:
+      213: -8064054448929496326
+    second: ItensPreto_Branco_202
+  - first:
+      213: 2965456465860182570
+    second: ItensPreto_Branco_203
+  - first:
+      213: -454552839426746099
+    second: ItensPreto_Branco_204
+  - first:
+      213: -1618841655270167713
+    second: ItensPreto_Branco_205
+  - first:
+      213: 8581744428052828890
+    second: ItensPreto_Branco_206
+  - first:
+      213: 8591746187423398902
+    second: ItensPreto_Branco_207
+  - first:
+      213: -3538191595278510366
+    second: ItensPreto_Branco_208
+  - first:
+      213: -6317567370042397992
+    second: ItensPreto_Branco_209
+  - first:
+      213: 5762541910929587679
+    second: ItensPreto_Branco_210
+  - first:
+      213: -4136268121029916616
+    second: ItensPreto_Branco_211
+  - first:
+      213: -7204247088120460953
+    second: ItensPreto_Branco_212
+  - first:
+      213: 1934525471778719092
+    second: ItensPreto_Branco_213
+  - first:
+      213: -8082591995173379153
+    second: ItensPreto_Branco_214
+  - first:
+      213: -3256167086399667089
+    second: ItensPreto_Branco_215
+  - first:
+      213: 8808686577461021130
+    second: ItensPreto_Branco_216
+  - first:
+      213: -1025226538462812330
+    second: ItensPreto_Branco_217
+  - first:
+      213: -4938484921542960702
+    second: ItensPreto_Branco_218
+  - first:
+      213: -3457808833657102286
+    second: ItensPreto_Branco_219
+  - first:
+      213: -3385474820368864961
+    second: ItensPreto_Branco_220
+  - first:
+      213: -6387400712231829112
+    second: ItensPreto_Branco_221
+  - first:
+      213: -4779313879567200356
+    second: ItensPreto_Branco_222
+  - first:
+      213: -6787376360276485286
+    second: ItensPreto_Branco_223
+  - first:
+      213: -1548493994191364972
+    second: ItensPreto_Branco_224
+  - first:
+      213: 214253442320418509
+    second: ItensPreto_Branco_225
+  - first:
+      213: 2124199800034623177
+    second: ItensPreto_Branco_226
+  - first:
+      213: 3013447719957877637
+    second: ItensPreto_Branco_227
+  - first:
+      213: -3215036254881387616
+    second: ItensPreto_Branco_228
+  - first:
+      213: -425449036968254696
+    second: ItensPreto_Branco_229
+  - first:
+      213: 7352948224649109577
+    second: ItensPreto_Branco_230
+  - first:
+      213: 948535573963906422
+    second: ItensPreto_Branco_231
+  - first:
+      213: 2389871348636269133
+    second: ItensPreto_Branco_232
+  - first:
+      213: -9038735399684603702
+    second: ItensPreto_Branco_233
+  - first:
+      213: 7941387992722122834
+    second: ItensPreto_Branco_234
+  - first:
+      213: 4659017791868437713
+    second: ItensPreto_Branco_235
+  - first:
+      213: 6568340698396818181
+    second: ItensPreto_Branco_236
+  - first:
+      213: 1344512147141618195
+    second: ItensPreto_Branco_237
+  - first:
+      213: -3463826280963782132
+    second: ItensPreto_Branco_238
+  - first:
+      213: 1791933622399823630
+    second: ItensPreto_Branco_239
+  - first:
+      213: 3943891144786100676
+    second: ItensPreto_Branco_240
+  - first:
+      213: 1519340054742108431
+    second: ItensPreto_Branco_241
+  - first:
+      213: 2489837183033138320
+    second: ItensPreto_Branco_242
+  - first:
+      213: -5752501241646825911
+    second: ItensPreto_Branco_243
+  - first:
+      213: -4519454207433026945
+    second: ItensPreto_Branco_244
+  - first:
+      213: 4257819742985220343
+    second: ItensPreto_Branco_245
+  - first:
+      213: -1290785794137484508
+    second: ItensPreto_Branco_246
+  - first:
+      213: -8612063923340578655
+    second: ItensPreto_Branco_247
+  - first:
+      213: -6262667993122275615
+    second: ItensPreto_Branco_248
+  - first:
+      213: -6363472398561470968
+    second: ItensPreto_Branco_249
+  - first:
+      213: -5994290836150595272
+    second: ItensPreto_Branco_250
+  - first:
+      213: -676985711561492400
+    second: ItensPreto_Branco_251
+  - first:
+      213: 6479939199185701430
+    second: ItensPreto_Branco_252
+  - first:
+      213: -203185909057354529
+    second: ItensPreto_Branco_253
+  - first:
+      213: -3488083310426038800
+    second: ItensPreto_Branco_254
+  - first:
+      213: 7584895564562413421
+    second: ItensPreto_Branco_255
+  - first:
+      213: 6799482960400978995
+    second: ItensPreto_Branco_256
+  - first:
+      213: -7183559474944207500
+    second: ItensPreto_Branco_257
+  - first:
+      213: 2282336594702347357
+    second: ItensPreto_Branco_258
+  - first:
+      213: 5233182219424036126
+    second: ItensPreto_Branco_259
+  - first:
+      213: 91413212720973138
+    second: ItensPreto_Branco_260
+  - first:
+      213: -4073183626233970619
+    second: ItensPreto_Branco_261
+  - first:
+      213: -654974465942618318
+    second: ItensPreto_Branco_262
+  - first:
+      213: 5081670517676197673
+    second: ItensPreto_Branco_263
+  - first:
+      213: 1271897180205228228
+    second: ItensPreto_Branco_264
+  - first:
+      213: -2603626864587818785
+    second: ItensPreto_Branco_265
+  - first:
+      213: 1338051610772770536
+    second: ItensPreto_Branco_266
+  - first:
+      213: 280285051368026609
+    second: ItensPreto_Branco_267
+  - first:
+      213: 4192668978759810246
+    second: ItensPreto_Branco_268
+  - first:
+      213: 3812052181419413953
+    second: ItensPreto_Branco_269
+  - first:
+      213: -2213708526832314086
+    second: ItensPreto_Branco_270
+  - first:
+      213: -3129340857541193810
+    second: ItensPreto_Branco_271
+  - first:
+      213: 3541880509840807072
+    second: ItensPreto_Branco_272
+  - first:
+      213: 4563059852416779119
+    second: ItensPreto_Branco_273
+  - first:
+      213: 2151776256733021661
+    second: ItensPreto_Branco_274
+  - first:
+      213: -2420337373891594459
+    second: ItensPreto_Branco_275
+  - first:
+      213: 5703114228266242199
+    second: ItensPreto_Branco_276
+  - first:
+      213: -6702235518236402956
+    second: ItensPreto_Branco_277
+  - first:
+      213: -3645770446613012573
+    second: ItensPreto_Branco_278
+  - first:
+      213: -5556452475998064460
+    second: ItensPreto_Branco_279
+  - first:
+      213: 3366093462276279868
+    second: ItensPreto_Branco_280
+  - first:
+      213: -3830759359729010358
+    second: ItensPreto_Branco_281
+  - first:
+      213: 1937288669576369931
+    second: ItensPreto_Branco_282
+  - first:
+      213: 932257898754617836
+    second: ItensPreto_Branco_283
+  - first:
+      213: 9192031868782690480
+    second: ItensPreto_Branco_284
+  - first:
+      213: 6421789042657239560
+    second: ItensPreto_Branco_285
+  - first:
+      213: -7469072875095208832
+    second: ItensPreto_Branco_286
+  - first:
+      213: 7880708889508455593
+    second: ItensPreto_Branco_287
+  - first:
+      213: 391410790081849024
+    second: ItensPreto_Branco_288
+  - first:
+      213: -1040685946130444966
+    second: ItensPreto_Branco_289
+  - first:
+      213: -7465411737528828247
+    second: ItensPreto_Branco_290
+  - first:
+      213: 1037160805790560784
+    second: ItensPreto_Branco_291
+  - first:
+      213: -6291651859747890956
+    second: ItensPreto_Branco_292
+  - first:
+      213: -2675069271245160936
+    second: ItensPreto_Branco_293
+  - first:
+      213: -3288338249930529463
+    second: ItensPreto_Branco_294
+  - first:
+      213: -1578974184069848765
+    second: ItensPreto_Branco_295
+  - first:
+      213: 1255432917917115604
+    second: ItensPreto_Branco_296
+  - first:
+      213: -129040598184324862
+    second: ItensPreto_Branco_297
+  - first:
+      213: 1213681414972363020
+    second: ItensPreto_Branco_298
+  - first:
+      213: 8764523631713412258
+    second: ItensPreto_Branco_299
+  - first:
+      213: -7393286149835210966
+    second: ItensPreto_Branco_300
+  - first:
+      213: 1434911437823108199
+    second: ItensPreto_Branco_301
+  - first:
+      213: -7777421865617335488
+    second: ItensPreto_Branco_302
+  - first:
+      213: 3144029374557329510
+    second: ItensPreto_Branco_303
+  - first:
+      213: -240472162030759923
+    second: ItensPreto_Branco_304
+  - first:
+      213: -8593600685835113596
+    second: ItensPreto_Branco_305
+  - first:
+      213: -903592113771390595
+    second: ItensPreto_Branco_306
+  - first:
+      213: 5270926120004825132
+    second: ItensPreto_Branco_307
+  - first:
+      213: -4931169924183367727
+    second: ItensPreto_Branco_308
+  - first:
+      213: 7868426978163273197
+    second: ItensPreto_Branco_309
+  - first:
+      213: 7649405620692259202
+    second: ItensPreto_Branco_310
+  - first:
+      213: -5931196337577277148
+    second: ItensPreto_Branco_311
+  - first:
+      213: -2684493147627449543
+    second: ItensPreto_Branco_312
+  - first:
+      213: 2728035266818914188
+    second: ItensPreto_Branco_313
+  - first:
+      213: -6292645409295120659
+    second: ItensPreto_Branco_314
+  - first:
+      213: 5568554817144335155
+    second: ItensPreto_Branco_315
+  - first:
+      213: 5798595367236029021
+    second: ItensPreto_Branco_316
+  - first:
+      213: -3819616503093628733
+    second: ItensPreto_Branco_317
+  - first:
+      213: -4060294633983804619
+    second: ItensPreto_Branco_318
+  - first:
+      213: 7264269128418222250
+    second: ItensPreto_Branco_319
+  - first:
+      213: -402885746184352159
+    second: ItensPreto_Branco_320
+  - first:
+      213: -2897393206182305962
+    second: ItensPreto_Branco_321
+  - first:
+      213: 7910469285722778760
+    second: ItensPreto_Branco_322
+  - first:
+      213: -7852350207793015075
+    second: ItensPreto_Branco_323
+  - first:
+      213: -7913438335472911851
+    second: ItensPreto_Branco_324
+  - first:
+      213: -6711647235408409980
+    second: ItensPreto_Branco_325
+  - first:
+      213: -5905682246896050072
+    second: ItensPreto_Branco_326
+  - first:
+      213: 439023713972601706
+    second: ItensPreto_Branco_327
+  - first:
+      213: -7444864906370062575
+    second: ItensPreto_Branco_328
+  - first:
+      213: 1915043251110258356
+    second: ItensPreto_Branco_329
+  - first:
+      213: 1638352299248508077
+    second: ItensPreto_Branco_330
+  - first:
+      213: -2442784988933787828
+    second: ItensPreto_Branco_331
+  - first:
+      213: -5266398436907014002
+    second: ItensPreto_Branco_332
+  - first:
+      213: -2283205826470764293
+    second: ItensPreto_Branco_333
+  - first:
+      213: 5347529526786871819
+    second: ItensPreto_Branco_334
+  - first:
+      213: -7623231708746060365
+    second: ItensPreto_Branco_335
+  - first:
+      213: -1541054934584128575
+    second: ItensPreto_Branco_336
+  - first:
+      213: -3712833795383405547
+    second: ItensPreto_Branco_337
+  - first:
+      213: 5730549164334859110
+    second: ItensPreto_Branco_338
+  - first:
+      213: -4430563509370202509
+    second: ItensPreto_Branco_339
+  - first:
+      213: -9175081333947655498
+    second: ItensPreto_Branco_340
+  - first:
+      213: -1313798930717089674
+    second: ItensPreto_Branco_341
+  - first:
+      213: -2490798085221106457
+    second: ItensPreto_Branco_342
+  - first:
+      213: -8176142522292985955
+    second: ItensPreto_Branco_343
+  - first:
+      213: -1633527852695559917
+    second: ItensPreto_Branco_344
+  - first:
+      213: -4026990997210142587
+    second: ItensPreto_Branco_345
+  - first:
+      213: 3588798269429818213
+    second: ItensPreto_Branco_346
+  - first:
+      213: 3725994179738551106
+    second: ItensPreto_Branco_347
+  - first:
+      213: -3066085203726531905
+    second: ItensPreto_Branco_348
+  - first:
+      213: -5695011747612317470
+    second: ItensPreto_Branco_349
+  - first:
+      213: -6421114366616504532
+    second: ItensPreto_Branco_350
+  - first:
+      213: -6579554778699441425
+    second: ItensPreto_Branco_351
+  - first:
+      213: -4743953442436657668
+    second: ItensPreto_Branco_352
+  - first:
+      213: 881819449323137668
+    second: ItensPreto_Branco_353
+  - first:
+      213: -3663880112995720049
+    second: ItensPreto_Branco_354
+  - first:
+      213: 8301242883085685866
+    second: ItensPreto_Branco_355
+  - first:
+      213: -7164908842273626216
+    second: ItensPreto_Branco_356
+  - first:
+      213: -7260319832521478577
+    second: ItensPreto_Branco_357
+  - first:
+      213: -5818962699291432111
+    second: ItensPreto_Branco_358
+  - first:
+      213: 1611495228221445099
+    second: ItensPreto_Branco_359
+  - first:
+      213: -3129893394790669509
+    second: ItensPreto_Branco_360
+  - first:
+      213: -1168127965503368799
+    second: ItensPreto_Branco_361
+  - first:
+      213: -4022582654336148566
+    second: ItensPreto_Branco_362
+  - first:
+      213: -1623082363820296060
+    second: ItensPreto_Branco_363
+  - first:
+      213: -7368746325909503475
+    second: ItensPreto_Branco_364
+  - first:
+      213: -7244269471419628925
+    second: ItensPreto_Branco_365
+  - first:
+      213: -4934360349469419528
+    second: ItensPreto_Branco_366
+  - first:
+      213: 3044837044350300769
+    second: ItensPreto_Branco_367
+  - first:
+      213: -6224568156010085038
+    second: ItensPreto_Branco_368
+  - first:
+      213: 5981775591820212475
+    second: ItensPreto_Branco_369
+  - first:
+      213: 6176803118262125272
+    second: ItensPreto_Branco_370
+  - first:
+      213: -4013521396051433942
+    second: ItensPreto_Branco_371
+  - first:
+      213: 7205642750143328690
+    second: ItensPreto_Branco_372
+  - first:
+      213: -1336813850306643719
+    second: ItensPreto_Branco_373
+  - first:
+      213: 3898463939098764853
+    second: ItensPreto_Branco_374
+  - first:
+      213: -1356647173565758941
+    second: ItensPreto_Branco_375
+  - first:
+      213: -1264921771889674875
+    second: ItensPreto_Branco_376
+  - first:
+      213: -3646625067244599724
+    second: ItensPreto_Branco_377
+  - first:
+      213: -5228360301791702565
+    second: ItensPreto_Branco_378
+  - first:
+      213: 8135054032436882967
+    second: ItensPreto_Branco_379
+  - first:
+      213: -8669995335642298476
+    second: ItensPreto_Branco_380
+  - first:
+      213: -8934914422004432848
+    second: ItensPreto_Branco_381
+  - first:
+      213: 2482529367591849513
+    second: ItensPreto_Branco_382
+  - first:
+      213: -7813659372915030816
+    second: ItensPreto_Branco_383
+  - first:
+      213: 8498054159602307223
+    second: ItensPreto_Branco_384
+  - first:
+      213: -2992141277113252200
+    second: ItensPreto_Branco_385
+  - first:
+      213: 6358977000015977098
+    second: ItensPreto_Branco_386
+  - first:
+      213: 7167560105624935650
+    second: ItensPreto_Branco_387
+  - first:
+      213: 1137377522738851726
+    second: ItensPreto_Branco_388
+  - first:
+      213: -8989632297999647159
+    second: ItensPreto_Branco_389
+  - first:
+      213: 6691991801844115701
+    second: ItensPreto_Branco_390
+  - first:
+      213: -3430897505590945038
+    second: ItensPreto_Branco_391
+  - first:
+      213: 1992036450713865856
+    second: ItensPreto_Branco_392
+  - first:
+      213: 8983398089435734275
+    second: ItensPreto_Branco_393
+  - first:
+      213: 765706810279870474
+    second: ItensPreto_Branco_394
+  - first:
+      213: -5653371470175014099
+    second: ItensPreto_Branco_395
+  - first:
+      213: 6781215605283488231
+    second: ItensPreto_Branco_396
+  - first:
+      213: -7906574970465508214
+    second: ItensPreto_Branco_397
+  - first:
+      213: 3667590259692621495
+    second: ItensPreto_Branco_398
+  - first:
+      213: -5344873167838733137
+    second: ItensPreto_Branco_399
+  - first:
+      213: -4660097686196052256
+    second: ItensPreto_Branco_400
+  - first:
+      213: 7401990716883345458
+    second: ItensPreto_Branco_401
+  - first:
+      213: -185988010716968898
+    second: ItensPreto_Branco_402
+  - first:
+      213: 1927803606471587479
+    second: ItensPreto_Branco_403
+  - first:
+      213: 8426141935420997931
+    second: ItensPreto_Branco_404
+  - first:
+      213: 6115458649539425207
+    second: ItensPreto_Branco_405
+  - first:
+      213: -8620295250530955000
+    second: ItensPreto_Branco_406
+  - first:
+      213: -6665454330911787483
+    second: ItensPreto_Branco_407
+  - first:
+      213: -8219351360920497271
+    second: ItensPreto_Branco_408
+  - first:
+      213: 7115473526837639417
+    second: ItensPreto_Branco_409
+  - first:
+      213: -290689750398685543
+    second: ItensPreto_Branco_410
+  - first:
+      213: 4471487088819884431
+    second: ItensPreto_Branco_411
+  - first:
+      213: 3576469259561104177
+    second: ItensPreto_Branco_412
+  - first:
+      213: 7132043913845117706
+    second: ItensPreto_Branco_413
+  - first:
+      213: -1982420082752372068
+    second: ItensPreto_Branco_414
+  - first:
+      213: 2297245601223860207
+    second: ItensPreto_Branco_415
+  - first:
+      213: 3165469312018550164
+    second: ItensPreto_Branco_416
+  - first:
+      213: 8845036887610829747
+    second: ItensPreto_Branco_417
+  - first:
+      213: -7528581942994497850
+    second: ItensPreto_Branco_418
+  - first:
+      213: 7594619099160534927
+    second: ItensPreto_Branco_419
+  - first:
+      213: -1156155287559505416
+    second: ItensPreto_Branco_420
+  - first:
+      213: -3984467926176628110
+    second: ItensPreto_Branco_421
+  - first:
+      213: 247088731252693806
+    second: ItensPreto_Branco_422
+  - first:
+      213: 4421329225829736347
+    second: ItensPreto_Branco_423
+  - first:
+      213: -1872524642798258761
+    second: ItensPreto_Branco_424
+  - first:
+      213: 7080673798388011108
+    second: ItensPreto_Branco_425
+  - first:
+      213: -224380596144301195
+    second: ItensPreto_Branco_426
+  - first:
+      213: -6986651484505802639
+    second: ItensPreto_Branco_427
+  - first:
+      213: -5556942315855955772
+    second: ItensPreto_Branco_428
+  - first:
+      213: 1883071687876434240
+    second: ItensPreto_Branco_429
+  - first:
+      213: -5270859907245746585
+    second: ItensPreto_Branco_430
+  - first:
+      213: -3676752573349241434
+    second: ItensPreto_Branco_431
+  - first:
+      213: 5894527436159764049
+    second: ItensPreto_Branco_432
+  - first:
+      213: 160786427165931182
+    second: ItensPreto_Branco_433
+  - first:
+      213: -5423416575336459446
+    second: ItensPreto_Branco_434
+  - first:
+      213: -8074045175528157840
+    second: ItensPreto_Branco_435
+  - first:
+      213: 1255311383914988345
+    second: ItensPreto_Branco_436
+  - first:
+      213: 1303405260728131252
+    second: ItensPreto_Branco_437
+  - first:
+      213: 7256672595183130797
+    second: ItensPreto_Branco_438
+  - first:
+      213: 8569466896527316724
+    second: ItensPreto_Branco_439
+  - first:
+      213: 5352311384839107296
+    second: ItensPreto_Branco_440
+  - first:
+      213: 173149492998296998
+    second: ItensPreto_Branco_441
+  - first:
+      213: 3038223719768964828
+    second: ItensPreto_Branco_442
+  - first:
+      213: -2254577957225673189
+    second: ItensPreto_Branco_443
+  - first:
+      213: 3995817662123798327
+    second: ItensPreto_Branco_444
+  - first:
+      213: -3048305196163849002
+    second: ItensPreto_Branco_445
+  - first:
+      213: -6289195222875905525
+    second: ItensPreto_Branco_446
+  - first:
+      213: -5325756734871800953
+    second: ItensPreto_Branco_447
+  - first:
+      213: 7623500203193048519
+    second: ItensPreto_Branco_448
+  - first:
+      213: 4640732598222006941
+    second: ItensPreto_Branco_449
+  - first:
+      213: 2749653619669310222
+    second: ItensPreto_Branco_450
+  - first:
+      213: -7687025159003941737
+    second: ItensPreto_Branco_451
+  - first:
+      213: -7257524085786935563
+    second: ItensPreto_Branco_452
+  - first:
+      213: -5241048209327251999
+    second: ItensPreto_Branco_453
+  - first:
+      213: 8078280999417591081
+    second: ItensPreto_Branco_454
+  - first:
+      213: -5510128299271099268
+    second: ItensPreto_Branco_455
+  - first:
+      213: -7242958870626257921
+    second: ItensPreto_Branco_456
+  - first:
+      213: -1313582562674272260
+    second: ItensPreto_Branco_457
+  - first:
+      213: 8838352516912252445
+    second: ItensPreto_Branco_458
+  - first:
+      213: 7092400155251159390
+    second: ItensPreto_Branco_459
+  - first:
+      213: -7876512119114854779
+    second: ItensPreto_Branco_460
+  - first:
+      213: -8678491208941887961
+    second: ItensPreto_Branco_461
+  - first:
+      213: 8776414184280879131
+    second: ItensPreto_Branco_462
+  - first:
+      213: 7357752686775476117
+    second: ItensPreto_Branco_463
+  - first:
+      213: 726172993531519587
+    second: ItensPreto_Branco_464
+  - first:
+      213: 8677356015845577004
+    second: ItensPreto_Branco_465
+  - first:
+      213: -6900319400470503487
+    second: ItensPreto_Branco_466
+  - first:
+      213: 4308631474500073873
+    second: ItensPreto_Branco_467
+  - first:
+      213: 3894748127772083860
+    second: ItensPreto_Branco_468
+  - first:
+      213: 5104441780860085828
+    second: ItensPreto_Branco_469
+  - first:
+      213: -5177119814890950339
+    second: ItensPreto_Branco_470
+  - first:
+      213: 7412836065592469597
+    second: ItensPreto_Branco_471
+  - first:
+      213: 2974957815038205099
+    second: ItensPreto_Branco_472
+  - first:
+      213: -665501846541433310
+    second: ItensPreto_Branco_473
+  - first:
+      213: 2717699057085718390
+    second: ItensPreto_Branco_474
+  - first:
+      213: -8143518694851214700
+    second: ItensPreto_Branco_475
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ItensPreto_Branco_0
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3748
+        width: 285
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b6932fc5f24e74f8d8745044dd3e03
+      internalID: -23416135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 4140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab41a9872098c0d4cba06545c567144b
+      internalID: 479963328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_2
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 3748
+        width: 291
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be427740e82c41c47822170a4bb513a9
+      internalID: 818492374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_3
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 3773
+        width: 242
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4930db9fd632ace43b42e51a659e9860
+      internalID: 98747896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_4
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 3781
+        width: 493
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf61e9c9b0bc2cb4fb0e0d20d001a4f0
+      internalID: 1764889305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_5
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 3756
+        width: 249
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4954f4e01976c49b6c1c3e00e16b9b
+      internalID: -1228129887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_6
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3773
+        width: 293
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda9fa92f3ff00442a50cda70f84aef1
+      internalID: -54111583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_7
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 3999
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaf5b3fa41b8cb468837d2648c74235
+      internalID: 90608465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_8
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 3940
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d0fa1915fad4a47baa8382db9256e1
+      internalID: -1156195414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_9
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 3505
+        width: 358
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518c7b085c0148e4080cef37d9af6b2b
+      internalID: -518988951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_10
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 3822
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0066ebe18cd0fb74d9fa0bc506d5ff6b
+      internalID: 95133649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_11
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3756
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c31879ff1c8e6f429f2eb5577b0c6fb
+      internalID: 34256756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_12
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 3531
+        width: 13
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da0b95e58d13d64ea1dc731740f3436
+      internalID: 257159104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 3003
+        width: 336
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a3b0b23a687274bac35a150161046d
+      internalID: 404331466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_14
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3237
+        width: 293
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b291a3f7ca2107e4d80e50866e3e2772
+      internalID: -2036903484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_15
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 3237
+        width: 241
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d70abd40aff8b743aa52526c4f49a04
+      internalID: 878238599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_16
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 2970
+        width: 242
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915a6c1961c249e4281c6b1f8500d09a
+      internalID: 1024484329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_17
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 3020
+        width: 67
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36382818c2e67964289ed1432ad31a8d
+      internalID: 16054251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_18
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 3254
+        width: 560
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2888d64ba701d0141bc5eba0d342f665
+      internalID: -1499550688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_19
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 2953
+        width: 249
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc926081ae0e0f408c0691143c6b64e
+      internalID: 1130621332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_20
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 2987
+        width: 208
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5575f95d74bcfeb4b9066359c3d2ae48
+      internalID: -146066947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_21
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 3311
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824d095b382841a41825497d29ec1831
+      internalID: -1189472220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_22
+      rect:
+        serializedVersion: 2
+        x: 4062
+        y: 3311
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b49ef0e8e5914140a5ac15f43880560
+      internalID: -1023243901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_23
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3222
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b5d55bdba8854c852cc9076bdcab2
+      internalID: 146634645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_24
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3221
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18a086607ab30441abce31be991e850
+      internalID: -19483273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3193
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c731f960ebfdd4f86ebbfb4a29d402
+      internalID: -2138225762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3186
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d451f5c11057f4f902bbeac6fe74e1
+      internalID: 51910536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2450
+        width: 101
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b348ca207625cf4bb73a9ab08c56299
+      internalID: 288526370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_28
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2450
+        width: 99
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff866a73f57a6942a7d72f76250c2a3
+      internalID: -1546162728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_29
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2677
+        width: 250
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcbfb1006016aa4da75d79f6a9429ef
+      internalID: -1830220289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_30
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 2702
+        width: 258
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d98fa95927d137479b28b9dc2f8bd3d
+      internalID: -401699098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_31
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 2433
+        width: 241
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8024053cfbbe64d4ba6a58cc9cd0bfec
+      internalID: 101200905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_32
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 2483
+        width: 292
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534030f46927d324684481082c42d7d1
+      internalID: 689004315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_33
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2183
+        width: 292
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87918920c5f9bee4e82d7da1b8458d56
+      internalID: -706005447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_34
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2183
+        width: 201
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d9e7ab5d40c554599a77442bbc9da0
+      internalID: 800858439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_35
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 2485
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef52586ef1ef6f041a2a88ec54938cee
+      internalID: -2083677711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_36
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 2183
+        width: 291
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0449f64fb80030948ad2dc5e6727b2fa
+      internalID: -358390323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_37
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2140
+        width: 250
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfdff3b2f8e01746a1ce1497a619a3c
+      internalID: -793771151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_38
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1941
+        width: 274
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f10b12ae05d7840b11962688596328
+      internalID: 855559185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_39
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 1941
+        width: 274
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547a9a5fed256de4fbcc54e04d6b74ce
+      internalID: -861859160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_40
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 1956
+        width: 123
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab9be330c968ab46a70df96f9142cd3
+      internalID: 1965294874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_41
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 1430
+        width: 811
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11b1e4d9a729f94697f3094c5505c37
+      internalID: -1943584748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_42
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1647
+        width: 232
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52fe6413f438214286a593c304e2304
+      internalID: -1495582816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_43
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1413
+        width: 242
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f294e2291d685949a99153c199a7d98
+      internalID: -2034471818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_44
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 1704
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942a68b063b18664db5f5e26e51ff267
+      internalID: -1219083252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_45
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1338
+        width: 280
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8b97dd52752bd499bd49163c6572b3
+      internalID: 286920866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_46
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 1704
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954f3a5e09d83df49a7cd79dcb78260d
+      internalID: 248428004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_47
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1103
+        width: 201
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a9bfab6820d1240a73ddc6bb6076b8
+      internalID: -1172952599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_48
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 1371
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501b0fa80d08e2440ae9e05cb3770f2b
+      internalID: 730885986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_49
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 1371
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a67567d062b7a4187e8929121578a5
+      internalID: 1202408213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_50
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 1369
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d88986ccd068a34d816995fd2ac5df4
+      internalID: 541446778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_51
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 869
+        width: 485
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86d7ecd67c046c4ab84c30bace6e3d4
+      internalID: -1732193486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 325
+        width: 501
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5d226db1f518b498c35957fdbcd6b3
+      internalID: 1023010556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 82
+        width: 115
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a251ef6a4fe10f4ba8a0f62a621dc22
+      internalID: 448461209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_54
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 66
+        width: 158
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ade7fb60208c34a9aae02c9ae94e01
+      internalID: -1389821899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_55
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 48
+        width: 226
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47b3c364412eb24097b090da9391364
+      internalID: 1046288277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_56
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 48
+        width: 224
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d814dc1b40113a458c8f0319e8c6548
+      internalID: -355809427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_57
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 48
+        width: 249
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200dd6b59076a1249a5d752d4015c12a
+      internalID: 769641794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_58
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 23
+        width: 249
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb4a7c7f60f67842bdc9d68c7ef15be
+      internalID: -1528210257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_59
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 57
+        width: 173
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b4930cb10705e4db7c398b284077b0
+      internalID: -494972381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_60
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 66
+        width: 182
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dc52f89c0ce364e8d93f37b9132ade
+      internalID: 2128739476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItensPreto_Branco_61
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 57
+        width: 283
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d52c7a7e1655a548b137edb189904f4
+      internalID: 937887129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4154f44cfcf4cd049a0b4ca6d0a6a2fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ItensPreto_Branco_0: -23416135
+      ItensPreto_Branco_1: 479963328
+      ItensPreto_Branco_10: 95133649
+      ItensPreto_Branco_11: 34256756
+      ItensPreto_Branco_12: 257159104
+      ItensPreto_Branco_13: 404331466
+      ItensPreto_Branco_14: -2036903484
+      ItensPreto_Branco_15: 878238599
+      ItensPreto_Branco_16: 1024484329
+      ItensPreto_Branco_17: 16054251
+      ItensPreto_Branco_18: -1499550688
+      ItensPreto_Branco_19: 1130621332
+      ItensPreto_Branco_2: 818492374
+      ItensPreto_Branco_20: -146066947
+      ItensPreto_Branco_21: -1189472220
+      ItensPreto_Branco_22: -1023243901
+      ItensPreto_Branco_23: 146634645
+      ItensPreto_Branco_24: -19483273
+      ItensPreto_Branco_25: -2138225762
+      ItensPreto_Branco_26: 51910536
+      ItensPreto_Branco_27: 288526370
+      ItensPreto_Branco_28: -1546162728
+      ItensPreto_Branco_29: -1830220289
+      ItensPreto_Branco_3: 98747896
+      ItensPreto_Branco_30: -401699098
+      ItensPreto_Branco_31: 101200905
+      ItensPreto_Branco_32: 689004315
+      ItensPreto_Branco_33: -706005447
+      ItensPreto_Branco_34: 800858439
+      ItensPreto_Branco_35: -2083677711
+      ItensPreto_Branco_36: -358390323
+      ItensPreto_Branco_37: -793771151
+      ItensPreto_Branco_38: 855559185
+      ItensPreto_Branco_39: -861859160
+      ItensPreto_Branco_4: 1764889305
+      ItensPreto_Branco_40: 1965294874
+      ItensPreto_Branco_41: -1943584748
+      ItensPreto_Branco_42: -1495582816
+      ItensPreto_Branco_43: -2034471818
+      ItensPreto_Branco_44: -1219083252
+      ItensPreto_Branco_45: 286920866
+      ItensPreto_Branco_46: 248428004
+      ItensPreto_Branco_47: -1172952599
+      ItensPreto_Branco_48: 730885986
+      ItensPreto_Branco_49: 1202408213
+      ItensPreto_Branco_5: -1228129887
+      ItensPreto_Branco_50: 541446778
+      ItensPreto_Branco_51: -1732193486
+      ItensPreto_Branco_52: 1023010556
+      ItensPreto_Branco_53: 448461209
+      ItensPreto_Branco_54: -1389821899
+      ItensPreto_Branco_55: 1046288277
+      ItensPreto_Branco_56: -355809427
+      ItensPreto_Branco_57: 769641794
+      ItensPreto_Branco_58: -1528210257
+      ItensPreto_Branco_59: -494972381
+      ItensPreto_Branco_6: -54111583
+      ItensPreto_Branco_60: 2128739476
+      ItensPreto_Branco_61: 937887129
+      ItensPreto_Branco_7: 90608465
+      ItensPreto_Branco_8: -1156195414
+      ItensPreto_Branco_9: -518988951
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

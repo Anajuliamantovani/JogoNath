@@ -15,7 +15,7 @@ D:/Dowloads/JogoNath/Nath's Labyrinth
 -logFile
 Logs/AssetImportWorker4.log
 -srvPort
-49592
+56599
 -job-worker-count
 5
 -background-job-worker-count
@@ -59,12 +59,12 @@ D:/Dowloads/JogoNath/Nath's Labyrinth
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [30908]  Target information:
+Player connection [9648]  Target information:
 
-Player connection [30908]  * "[IP] 192.168.15.12 [Port] 0 [Flags] 2 [Guid] 1872028512 [EditorId] 1872028512 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-L2Q479F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [9648]  * "[IP] 192.168.15.12 [Port] 0 [Flags] 2 [Guid] 1600225711 [EditorId] 1600225711 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-L2Q479F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [30908] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [30908] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [9648] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [9648] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 5
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
@@ -75,7 +75,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 3.15 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 2.51 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.31f1 (a206c360e2a8)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/Resources/UnitySubsystems
@@ -91,45 +91,45 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56956
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56856
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.006225 seconds.
-- Loaded All Assemblies, in  0.456 seconds
+Registered in 0.004365 seconds.
+- Loaded All Assemblies, in  0.393 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.389 seconds
-Domain Reload Profiling: 843ms
-	BeginReloadAssembly (155ms)
+- Finished resetting the current domain, in  0.318 seconds
+Domain Reload Profiling: 708ms
+	BeginReloadAssembly (130ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (41ms)
+	RebuildCommonClasses (36ms)
 	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (63ms)
-	LoadAllAssembliesAndSetupDomain (183ms)
-		LoadAssemblies (152ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (159ms)
+		LoadAssemblies (126ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (179ms)
-			TypeCache.Refresh (177ms)
-				TypeCache.ScanAssembly (163ms)
+		AnalyzeDomain (155ms)
+			TypeCache.Refresh (154ms)
+				TypeCache.ScanAssembly (141ms)
 			BuildScriptInfoCaches (0ms)
-			ResolveRequiredComponents (0ms)
-	FinalizeReload (390ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (318ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (333ms)
+		SetupLoadedEditorAssemblies (276ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (33ms)
+			InitializePlatformSupportModulesInManaged (30ms)
 			SetLoadedEditorAssemblies (5ms)
-			BeforeProcessingInitializeOnLoad (60ms)
-			ProcessInitializeOnLoadAttributes (170ms)
-			ProcessInitializeOnLoadMethodAttributes (65ms)
+			BeforeProcessingInitializeOnLoad (49ms)
+			ProcessInitializeOnLoadAttributes (141ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -138,956 +138,52 @@ Domain Reload Profiling: 843ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.932 seconds
-Refreshing native plugins compatible for Editor in 1.83 ms, found 4 plugins.
+- Loaded All Assemblies, in  0.799 seconds
+Refreshing native plugins compatible for Editor in 1.66 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.932 seconds
-Domain Reload Profiling: 1859ms
-	BeginReloadAssembly (200ms)
+- Finished resetting the current domain, in  0.740 seconds
+Domain Reload Profiling: 1536ms
+	BeginReloadAssembly (180ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (39ms)
-	RebuildCommonClasses (48ms)
-	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (47ms)
-	LoadAllAssembliesAndSetupDomain (619ms)
-		LoadAssemblies (411ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (519ms)
+		LoadAssemblies (366ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (322ms)
-			TypeCache.Refresh (219ms)
-				TypeCache.ScanAssembly (201ms)
-			BuildScriptInfoCaches (85ms)
-			ResolveRequiredComponents (14ms)
-	FinalizeReload (933ms)
+		AnalyzeDomain (260ms)
+			TypeCache.Refresh (183ms)
+				TypeCache.ScanAssembly (168ms)
+			BuildScriptInfoCaches (64ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (741ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (768ms)
+		SetupLoadedEditorAssemblies (597ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (4ms)
+			InitializePlatformSupportModulesInManaged (3ms)
 			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (184ms)
-			ProcessInitializeOnLoadAttributes (441ms)
-			ProcessInitializeOnLoadMethodAttributes (127ms)
-			AfterProcessingInitializeOnLoad (8ms)
+			BeforeProcessingInitializeOnLoad (116ms)
+			ProcessInitializeOnLoadAttributes (361ms)
+			ProcessInitializeOnLoadMethodAttributes (105ms)
+			AfterProcessingInitializeOnLoad (7ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (6ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
-Refreshing native plugins compatible for Editor in 2.00 ms, found 4 plugins.
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.67 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 207 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6562 unused Assets / (4.9 MB). Loaded Objects now: 7246.
-Memory consumption went from 175.8 MB to 171.0 MB.
-Total: 10.323000 ms (FindLiveObjects: 0.725700 ms CreateObjectMapping: 0.962100 ms MarkObjects: 5.601800 ms  DeleteObjects: 3.032000 ms)
+Unloading 6562 unused Assets / (4.7 MB). Loaded Objects now: 7246.
+Memory consumption went from 174.5 MB to 169.8 MB.
+Total: 8.558300 ms (FindLiveObjects: 0.650600 ms CreateObjectMapping: 0.810100 ms MarkObjects: 4.518000 ms  DeleteObjects: 2.578900 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 97711.534577 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 12/SILVER/Key 12 - SILVER - frame0011.png
-  artifactKey: Guid(ee95016883e84774887fb28cf5011008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 12/SILVER/Key 12 - SILVER - frame0011.png using Guid(ee95016883e84774887fb28cf5011008) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd8dee861706eef5e19cf5cdb044c4fd6') in 0.1259032 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/Key 11 - GREY - Spritesheet.png
-  artifactKey: Guid(8d72b9f768ed3d041b217888287cbcbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/Key 11 - GREY - Spritesheet.png using Guid(8d72b9f768ed3d041b217888287cbcbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'da6902121cf6546b2474759e281a5572') in 0.0180532 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 6/SILVER/Key 6 - SILVER - frame0008.png
-  artifactKey: Guid(bcd1c997a205fc240910cad6d95e6942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 6/SILVER/Key 6 - SILVER - frame0008.png using Guid(bcd1c997a205fc240910cad6d95e6942) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b4cd45ba6e0216288968a5bf8a37fee') in 0.0177395 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/SILVER/Key 13 - SILVER - frame0005.png
-  artifactKey: Guid(ebf118ecfc4a40449982ae63b45d3eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/SILVER/Key 13 - SILVER - frame0005.png using Guid(ebf118ecfc4a40449982ae63b45d3eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '655795f8297e7596aeb69c5fbbfeb33a') in 0.0191905 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 4/GOLD/Key 4 - GOLD - 0001.png
-  artifactKey: Guid(b3832657fcd4cf6458911bbae941e5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 4/GOLD/Key 4 - GOLD - 0001.png using Guid(b3832657fcd4cf6458911bbae941e5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4c06c4afd5f19ad3d89a05d026be0a6') in 0.0180348 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/BRONZE/Key 5 - BRONZE - frame0001.png
-  artifactKey: Guid(03e07e27fafbeb442b967eadb348defb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/BRONZE/Key 5 - BRONZE - frame0001.png using Guid(03e07e27fafbeb442b967eadb348defb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd3b7d2c430af952df880e4ab51ab6a95') in 0.0181474 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GREY/Key 5 - GREY - frame0010.png
-  artifactKey: Guid(4664c8c907a44134c938f3ae30630626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GREY/Key 5 - GREY - frame0010.png using Guid(4664c8c907a44134c938f3ae30630626) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ab05270168a98a37791a4aea2176bfeb') in 0.0167532 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 4/GREY/Key 4 - GREY - 0000.png
-  artifactKey: Guid(d9a21d794a937654095cea756127235a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 4/GREY/Key 4 - GREY - 0000.png using Guid(d9a21d794a937654095cea756127235a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '676d250dd7d0229981baae790d904444') in 0.0173623 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GREY/Key 8 - GREY - frame0019.png
-  artifactKey: Guid(861b1359cb5ce6f4b855071067403a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GREY/Key 8 - GREY - frame0019.png using Guid(861b1359cb5ce6f4b855071067403a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '62ad0691a90b0ac0f3c41864c7546f5e') in 0.016366 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 12/SILVER/Key 12 - SILVER - frame0017.png
-  artifactKey: Guid(8eadc10926f51e0419552b84caf36778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 12/SILVER/Key 12 - SILVER - frame0017.png using Guid(8eadc10926f51e0419552b84caf36778) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd0bc6a59f8e3f5fe23998dab50eeed8a') in 0.0161103 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 15/BRONZE/Key 15 - BRONZE - frame0003.png
-  artifactKey: Guid(765db9505b7318b4cb53334fb7f27099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 15/BRONZE/Key 15 - BRONZE - frame0003.png using Guid(765db9505b7318b4cb53334fb7f27099) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c25479b222ea75224dbb1ac26937d2a') in 0.0145706 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GOLD/Key 8 - GOLD - frame0009.png
-  artifactKey: Guid(14d499b821ef27147b957818892c57c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GOLD/Key 8 - GOLD - frame0009.png using Guid(14d499b821ef27147b957818892c57c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bbb9cc98f11afe4c8d928bc30c7143a3') in 0.0181858 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 4/GOLD/Key 4 - GOLD - 0000.png
-  artifactKey: Guid(9f9b47bece9c6f7449d48cdf2071f44b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 4/GOLD/Key 4 - GOLD - 0000.png using Guid(9f9b47bece9c6f7449d48cdf2071f44b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '226c5592ad22b1f0fef0a228f1b81075') in 0.0187024 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 15/BRONZE/Key 15 - BRONZE - frame0008.png
-  artifactKey: Guid(857403c354e418e449d7cb7156effc55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 15/BRONZE/Key 15 - BRONZE - frame0008.png using Guid(857403c354e418e449d7cb7156effc55) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc3aded5c882de03209b73e07ae04b1e') in 0.0186697 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 6/GREY/Key 6 - GREY - frame0004.png
-  artifactKey: Guid(1282f84fdadd44f4eafe21090dbb8769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 6/GREY/Key 6 - GREY - frame0004.png using Guid(1282f84fdadd44f4eafe21090dbb8769) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6403a79f918457f077181b2a74b24134') in 0.0081706 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/BRONZE/Key 5 - BRONZE - frame0000.png
-  artifactKey: Guid(5a33281afd2e9874188d8b0c5677dbf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/BRONZE/Key 5 - BRONZE - frame0000.png using Guid(5a33281afd2e9874188d8b0c5677dbf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0a1fa001b6df95fccf74634bae1c6031') in 0.0182601 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/SILVER/Key 13 - SILVER - frame0021.png
-  artifactKey: Guid(4d98de20f5203ee40b4ecd1775d13f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/SILVER/Key 13 - SILVER - frame0021.png using Guid(4d98de20f5203ee40b4ecd1775d13f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '868881180ca1dd473fb538ddada98c5d') in 0.0187106 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/SILVER/Key 11 - SILVER - frame0005.png
-  artifactKey: Guid(5bae49780bb623549a0e892dae9e28de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/SILVER/Key 11 - SILVER - frame0005.png using Guid(5bae49780bb623549a0e892dae9e28de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e854a08820f7cee8e545543a5471ec1') in 0.0226062 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 2/GREY/Key 2 - GREY - 0007.png
-  artifactKey: Guid(b37d434a0450c464cbf00b494fb57775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 2/GREY/Key 2 - GREY - 0007.png using Guid(b37d434a0450c464cbf00b494fb57775) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4ea7dcdb7acae6b4ca32505892584ee9') in 0.0186206 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 12/SILVER/Key 12 - SILVER - frame0018.png
-  artifactKey: Guid(eba3bab5d393d33489ab65ad2aa42c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 12/SILVER/Key 12 - SILVER - frame0018.png using Guid(eba3bab5d393d33489ab65ad2aa42c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '369aa8a66d6ab22cdd1dd81c348f2b70') in 0.0190126 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GOLD/Key 8 - GOLD - frame0023.png
-  artifactKey: Guid(dbee224c83af0ff47aec83da97d15a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GOLD/Key 8 - GOLD - frame0023.png using Guid(dbee224c83af0ff47aec83da97d15a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ade205c7dbaac8cb6e2d27d4359f2f9c') in 0.0200716 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GOLD/Key 8 - GOLD - frame0025.png
-  artifactKey: Guid(76f332c786e58eb42aadb8b4165eef48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GOLD/Key 8 - GOLD - frame0025.png using Guid(76f332c786e58eb42aadb8b4165eef48) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe2ddab7627475b96f3806d8eb24d9f1') in 0.0147384 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/BRONZE/Key 11 - BRONZE - frame0006.png
-  artifactKey: Guid(21f3a63d631785c43824df9151326c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/BRONZE/Key 11 - BRONZE - frame0006.png using Guid(21f3a63d631785c43824df9151326c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '07ecb9a1c62bc85f9aa6adee179575eb') in 0.015957 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GOLD/Key 8 - GOLD - frame0005.png
-  artifactKey: Guid(77c8bcb92779927488f19a0523fbcb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GOLD/Key 8 - GOLD - frame0005.png using Guid(77c8bcb92779927488f19a0523fbcb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '536c2000d51dc94092fdf67eeaa09dd7') in 0.0249873 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 2/GREY/Key 2 - GREY - 0008.png
-  artifactKey: Guid(c556b1ead62c8de469191f37c47d7375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 2/GREY/Key 2 - GREY - 0008.png using Guid(c556b1ead62c8de469191f37c47d7375) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3213b7cfb31b8f1723ca360b7b0ee07f') in 0.0076542 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GREY/Key 8 - GREY - frame0018.png
-  artifactKey: Guid(1e6512c8e31393642b919569c9087d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GREY/Key 8 - GREY - frame0018.png using Guid(1e6512c8e31393642b919569c9087d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f90a077d3aa5c206002a6391959fd290') in 0.0157461 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GREY/Key 8 - GREY - frame0014.png
-  artifactKey: Guid(85b59517c38c05741944f8ee489f41fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GREY/Key 8 - GREY - frame0014.png using Guid(85b59517c38c05741944f8ee489f41fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '14548bf1ce9a90770fa8cab0b88f1374') in 0.0175431 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/GOLD/Key 11 - GOLD - frame0007.png
-  artifactKey: Guid(426c4022fe65a74469e16be1438f1d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/GOLD/Key 11 - GOLD - frame0007.png using Guid(426c4022fe65a74469e16be1438f1d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ca04d9b2cb041a15151455db7218075') in 0.0198398 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/GOLD/Key 13 - GOLD - frame0002.png
-  artifactKey: Guid(e9260a643f287d548b97b76541a24a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/GOLD/Key 13 - GOLD - frame0002.png using Guid(e9260a643f287d548b97b76541a24a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba3fcd222d9a5b3ba4c17389bdc44642') in 0.0185763 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 7/BRONZE/Key 7 - BRONZE - frame0013.png
-  artifactKey: Guid(d89451cd3aba8fe489218131c54ccc9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 7/BRONZE/Key 7 - BRONZE - frame0013.png using Guid(d89451cd3aba8fe489218131c54ccc9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '83245ac0d69358bd5e7403169516e8cd') in 0.0081797 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 7/GOLD/Key 7 - GOLD - frame0004.png
-  artifactKey: Guid(40e48d64b6f11eb43a221e1b4d4d1656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 7/GOLD/Key 7 - GOLD - frame0004.png using Guid(40e48d64b6f11eb43a221e1b4d4d1656) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd186b33576c44743ebc501fa3b48d0c') in 0.008372 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/GOLD/Key 13 - GOLD - frame0001.png
-  artifactKey: Guid(a59cfd4ef71e86c4683c550140b689d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/GOLD/Key 13 - GOLD - frame0001.png using Guid(a59cfd4ef71e86c4683c550140b689d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '643e8f21538b4ebd07b2ab71fd2f10ab') in 0.0173344 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/BRONZE/Key 11 - BRONZE - frame0003.png
-  artifactKey: Guid(8d3abfb2a2dc76e4287e459a5e1619e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/BRONZE/Key 11 - BRONZE - frame0003.png using Guid(8d3abfb2a2dc76e4287e459a5e1619e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1097a6aa2d6ec69351e6de9495885b89') in 0.016818 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 7/SILVER/Key 7 - SILVER - frame0024.png
-  artifactKey: Guid(7c9828bda751e0f4da65093b1679dd42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 7/SILVER/Key 7 - SILVER - frame0024.png using Guid(7c9828bda751e0f4da65093b1679dd42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '18cba225010bcc8aaaa61a874cde3d78') in 0.0178302 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 12/SILVER/Key 12 - SILVER - frame0013.png
-  artifactKey: Guid(783e702839c9fad488c5367e0a5dac30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 12/SILVER/Key 12 - SILVER - frame0013.png using Guid(783e702839c9fad488c5367e0a5dac30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b5b72a51ea788e2010ae3e5e8e0b110') in 0.0171334 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/SILVER/Key 13 - SILVER - frame0014.png
-  artifactKey: Guid(7add8b93cf995b544b8f19fec4688317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/SILVER/Key 13 - SILVER - frame0014.png using Guid(7add8b93cf995b544b8f19fec4688317) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5ff3c7b08b98e535cbb89254021a5a33') in 0.0202846 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 7/SILVER/Key 7 - SILVER - frame0004.png
-  artifactKey: Guid(dad19887c55d1234580f45b5ae557349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 7/SILVER/Key 7 - SILVER - frame0004.png using Guid(dad19887c55d1234580f45b5ae557349) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e8c58a4f694317b8a6240ec8638887a4') in 0.0116043 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/SILVER/Key 13 - SILVER - frame0026.png
-  artifactKey: Guid(add8fbc334009a74a8a50f662e5cedd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/SILVER/Key 13 - SILVER - frame0026.png using Guid(add8fbc334009a74a8a50f662e5cedd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b224c309cb17c2334d550242ef029921') in 0.0087214 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 6/SILVER/Key 6 - SILVER - frame0007.png
-  artifactKey: Guid(031fefd45ed74994ca1cf8770e5d48f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 6/SILVER/Key 6 - SILVER - frame0007.png using Guid(031fefd45ed74994ca1cf8770e5d48f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a854442a5027114429d1f1ae32e6518') in 0.0089794 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 7/BRONZE/Key 7 - BRONZE - frame0014.png
-  artifactKey: Guid(b0855869f2cfe9143954044f7453683a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 7/BRONZE/Key 7 - BRONZE - frame0014.png using Guid(b0855869f2cfe9143954044f7453683a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0cf19cccaa1e6afd43e1d92a00f31fa0') in 0.0089146 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GOLD/Key 8 - GOLD - frame0007.png
-  artifactKey: Guid(97a1cb0847fb92845b3292e904012779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 8/GOLD/Key 8 - GOLD - frame0007.png using Guid(97a1cb0847fb92845b3292e904012779) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bdfd040b1d5d4f402eb3990f6baf9d1a') in 0.0203505 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/SILVER/Key 13 - SILVER - frame0024.png
-  artifactKey: Guid(099e0eab43b50794d8391a739f8de1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/SILVER/Key 13 - SILVER - frame0024.png using Guid(099e0eab43b50794d8391a739f8de1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65467bc93ec25eefb64f1709c7a151b6') in 0.0094632 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/SILVER/Key 13 - SILVER - frame0015.png
-  artifactKey: Guid(018c5fd9f9ce0be40a0dc7cda463fc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 13/SILVER/Key 13 - SILVER - frame0015.png using Guid(018c5fd9f9ce0be40a0dc7cda463fc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '512534b305fd99b6f8b118deb49053f9') in 0.0164441 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 14/Key 14 - GREY -.png
-  artifactKey: Guid(84515e37bc9b6344c9188445c4556c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 14/Key 14 - GREY -.png using Guid(84515e37bc9b6344c9188445c4556c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '56d03e774522d925112981049605f7e6') in 0.015671 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GREY/Key 5 - GREY - frame0009.png
-  artifactKey: Guid(593630da6c4feef4a9b328b9f0df5979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GREY/Key 5 - GREY - frame0009.png using Guid(593630da6c4feef4a9b328b9f0df5979) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8e08b9741b21b2347169764aa9828c47') in 0.0188919 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0005.png
-  artifactKey: Guid(8ed6c21ee73f60e429c6a6907d83ba23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0005.png using Guid(8ed6c21ee73f60e429c6a6907d83ba23) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51a8e3535bda6b0fb4fd828714b33852') in 0.018278 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 7/SILVER/Key 7 - SILVER - frame0026.png
-  artifactKey: Guid(d02677e2b17331248a4326df426f7ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 7/SILVER/Key 7 - SILVER - frame0026.png using Guid(d02677e2b17331248a4326df426f7ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '013a848c684d19cd948a9a1969723469') in 0.0179682 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/BRONZE/Key 11 - BRONZE - frame0005.png
-  artifactKey: Guid(7015e552a7e52674693e3954690e1bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/BRONZE/Key 11 - BRONZE - frame0005.png using Guid(7015e552a7e52674693e3954690e1bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd0778508686855964ce98b7f1a6ddff8') in 0.0180656 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0006.png
-  artifactKey: Guid(b946b7941853d4948800eaa5561471c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0006.png using Guid(b946b7941853d4948800eaa5561471c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '35788f794fe9a57c581962707071013e') in 0.0168827 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/BRONZE/Key 11 - BRONZE - frame0007.png
-  artifactKey: Guid(48403895d19c97449b0a96389b054072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 11/BRONZE/Key 11 - BRONZE - frame0007.png using Guid(48403895d19c97449b0a96389b054072) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e39839f0d17b648e5090a73d24940a2') in 0.018217 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 2/BRONZE/Key 2 - BRONZE - 0004.png
-  artifactKey: Guid(210a8ebbce8a583449d7485be93920cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 2/BRONZE/Key 2 - BRONZE - 0004.png using Guid(210a8ebbce8a583449d7485be93920cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '73ee8aed02cecbb95c960c195ef7a9b8') in 0.009237 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.818 seconds
-Refreshing native plugins compatible for Editor in 1.62 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.897 seconds
-Domain Reload Profiling: 1714ms
-	BeginReloadAssembly (239ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (13ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (63ms)
-	RebuildCommonClasses (37ms)
-	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (32ms)
-	LoadAllAssembliesAndSetupDomain (496ms)
-		LoadAssemblies (396ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (214ms)
-			TypeCache.Refresh (6ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (191ms)
-			ResolveRequiredComponents (13ms)
-	FinalizeReload (897ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (683ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (3ms)
-			SetLoadedEditorAssemblies (5ms)
-			BeforeProcessingInitializeOnLoad (137ms)
-			ProcessInitializeOnLoadAttributes (447ms)
-			ProcessInitializeOnLoadMethodAttributes (81ms)
-			AfterProcessingInitializeOnLoad (10ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (15ms)
-Refreshing native plugins compatible for Editor in 2.12 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6560 unused Assets / (4.8 MB). Loaded Objects now: 7287.
-Memory consumption went from 150.4 MB to 145.6 MB.
-Total: 13.723900 ms (FindLiveObjects: 0.889700 ms CreateObjectMapping: 1.217300 ms MarkObjects: 7.242800 ms  DeleteObjects: 4.372100 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.822 seconds
-Refreshing native plugins compatible for Editor in 1.60 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.868 seconds
-Domain Reload Profiling: 1688ms
-	BeginReloadAssembly (243ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (16ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (70ms)
-	RebuildCommonClasses (35ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (35ms)
-	LoadAllAssembliesAndSetupDomain (494ms)
-		LoadAssemblies (393ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (213ms)
-			TypeCache.Refresh (6ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (191ms)
-			ResolveRequiredComponents (12ms)
-	FinalizeReload (868ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (667ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (3ms)
-			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (123ms)
-			ProcessInitializeOnLoadAttributes (445ms)
-			ProcessInitializeOnLoadMethodAttributes (81ms)
-			AfterProcessingInitializeOnLoad (9ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (14ms)
-Refreshing native plugins compatible for Editor in 2.72 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6560 unused Assets / (4.4 MB). Loaded Objects now: 7289.
-Memory consumption went from 150.4 MB to 146.0 MB.
-Total: 11.084600 ms (FindLiveObjects: 0.786200 ms CreateObjectMapping: 1.057100 ms MarkObjects: 5.338200 ms  DeleteObjects: 3.901800 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.753 seconds
-Refreshing native plugins compatible for Editor in 1.63 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.852 seconds
-Domain Reload Profiling: 1605ms
-	BeginReloadAssembly (211ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (14ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (56ms)
-	RebuildCommonClasses (32ms)
-	RebuildNativeTypeToScriptingClass (15ms)
-	initialDomainReloadingComplete (29ms)
-	LoadAllAssembliesAndSetupDomain (466ms)
-		LoadAssemblies (352ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (213ms)
-			TypeCache.Refresh (6ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (194ms)
-			ResolveRequiredComponents (10ms)
-	FinalizeReload (853ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (660ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (3ms)
-			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (125ms)
-			ProcessInitializeOnLoadAttributes (436ms)
-			ProcessInitializeOnLoadMethodAttributes (80ms)
-			AfterProcessingInitializeOnLoad (12ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (14ms)
-Refreshing native plugins compatible for Editor in 2.30 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6560 unused Assets / (4.8 MB). Loaded Objects now: 7291.
-Memory consumption went from 150.4 MB to 145.6 MB.
-Total: 12.616300 ms (FindLiveObjects: 0.980400 ms CreateObjectMapping: 0.951600 ms MarkObjects: 6.111500 ms  DeleteObjects: 4.571300 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2.04 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6549 unused Assets / (4.5 MB). Loaded Objects now: 7291.
-Memory consumption went from 150.6 MB to 146.1 MB.
-Total: 43.103000 ms (FindLiveObjects: 0.962100 ms CreateObjectMapping: 0.990500 ms MarkObjects: 37.066300 ms  DeleteObjects: 4.081800 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.053 seconds
-Refreshing native plugins compatible for Editor in 1.88 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.787 seconds
-Domain Reload Profiling: 1842ms
-	BeginReloadAssembly (290ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (30ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (87ms)
-	RebuildCommonClasses (39ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (31ms)
-	LoadAllAssembliesAndSetupDomain (683ms)
-		LoadAssemblies (509ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (295ms)
-			TypeCache.Refresh (12ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (262ms)
-			ResolveRequiredComponents (13ms)
-	FinalizeReload (788ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (550ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (3ms)
-			SetLoadedEditorAssemblies (5ms)
-			BeforeProcessingInitializeOnLoad (130ms)
-			ProcessInitializeOnLoadAttributes (346ms)
-			ProcessInitializeOnLoadMethodAttributes (57ms)
-			AfterProcessingInitializeOnLoad (8ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (13ms)
-Refreshing native plugins compatible for Editor in 1.66 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6560 unused Assets / (4.2 MB). Loaded Objects now: 7293.
-Memory consumption went from 150.4 MB to 146.3 MB.
-Total: 8.577700 ms (FindLiveObjects: 0.709600 ms CreateObjectMapping: 0.626800 ms MarkObjects: 5.145900 ms  DeleteObjects: 2.094300 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Import Request.
-  Time since last request: 3227.699018 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD
-  artifactKey: Guid(08b6665d4089f9241a269c47471469dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD using Guid(08b6665d4089f9241a269c47471469dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b2559c04fb63667fe546df5680b2b960') in 0.002286 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0000.png
-  artifactKey: Guid(14996be936d4dd94e92911642a72daf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0000.png using Guid(14996be936d4dd94e92911642a72daf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1816387b0d097da01be0d9c42165f241') in 0.1251185 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0012.png
-  artifactKey: Guid(a5f708a9825329f4aae8136418d9e993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0012.png using Guid(a5f708a9825329f4aae8136418d9e993) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e503f2ab9dbb9301466cb171210ca430') in 0.0244458 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0017.png
-  artifactKey: Guid(e5d72a65f35b3744cac6f2b269765e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0017.png using Guid(e5d72a65f35b3744cac6f2b269765e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33526698f95ed7103c6ced2b6f45de43') in 0.021796 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0014.png
-  artifactKey: Guid(4a49346241cf92b42a008ed66bdc23be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0014.png using Guid(4a49346241cf92b42a008ed66bdc23be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0739f5506ab536ec47d3fcd88138da1') in 0.0249397 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0013.png
-  artifactKey: Guid(1f53e2ae0be428c4cba24a211fdfbe7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0013.png using Guid(1f53e2ae0be428c4cba24a211fdfbe7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '637644e35ae2adf6acb86c308ae826bd') in 0.024796 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 17.480366 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GREY
-  artifactKey: Guid(50e2fe04e6372bb41b3e2241bfbedb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GREY using Guid(50e2fe04e6372bb41b3e2241bfbedb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b3993fa063b132f55de6cb34f7a7e6f3') in 0.0006054 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.764 seconds
-Refreshing native plugins compatible for Editor in 1.89 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.899 seconds
-Domain Reload Profiling: 1664ms
-	BeginReloadAssembly (212ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (13ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (54ms)
-	RebuildCommonClasses (36ms)
-	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (28ms)
-	LoadAllAssembliesAndSetupDomain (477ms)
-		LoadAssemblies (363ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (216ms)
-			TypeCache.Refresh (8ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (193ms)
-			ResolveRequiredComponents (11ms)
-	FinalizeReload (900ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (691ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (3ms)
-			SetLoadedEditorAssemblies (6ms)
-			BeforeProcessingInitializeOnLoad (128ms)
-			ProcessInitializeOnLoadAttributes (470ms)
-			ProcessInitializeOnLoadMethodAttributes (74ms)
-			AfterProcessingInitializeOnLoad (10ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (15ms)
-Refreshing native plugins compatible for Editor in 2.26 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6560 unused Assets / (4.6 MB). Loaded Objects now: 7295.
-Memory consumption went from 150.4 MB to 145.8 MB.
-Total: 11.658100 ms (FindLiveObjects: 1.070900 ms CreateObjectMapping: 1.362800 ms MarkObjects: 6.099000 ms  DeleteObjects: 3.123800 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Import Request.
-  Time since last request: 268.927525 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0000.png
-  artifactKey: Guid(14996be936d4dd94e92911642a72daf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0000.png using Guid(14996be936d4dd94e92911642a72daf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '051b737cb80f3d6a1d1c68b8cdada4e8') in 0.0889975 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0015.png
-  artifactKey: Guid(f58680283038a914588c4e1f45175def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0015.png using Guid(f58680283038a914588c4e1f45175def) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '161645a2d5cff9d4e731ee349ec9d1ca') in 0.011105 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0010.png
-  artifactKey: Guid(6c70364a76324534bab72b604e9aaca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0010.png using Guid(6c70364a76324534bab72b604e9aaca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16a1f90a22c950afa821c218aa1e822a') in 0.0105955 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0017.png
-  artifactKey: Guid(e5d72a65f35b3744cac6f2b269765e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0017.png using Guid(e5d72a65f35b3744cac6f2b269765e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38037afd42a57b1be0c08d24669e2787') in 0.0114891 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0007.png
-  artifactKey: Guid(99b8a9267b5cc3c428b3f8ff71563399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0007.png using Guid(99b8a9267b5cc3c428b3f8ff71563399) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a5928eef40bf34dd13d05ba19b283422') in 0.0193937 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0014.png
-  artifactKey: Guid(4a49346241cf92b42a008ed66bdc23be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0014.png using Guid(4a49346241cf92b42a008ed66bdc23be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '78dea21f3a5da7ea65ff03be17c117c7') in 0.0130227 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0003.png
-  artifactKey: Guid(d3d000890356709499fc0e3b46aff53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0003.png using Guid(d3d000890356709499fc0e3b46aff53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '868153a19b1abbcfd56bc81dec98a159') in 0.0115408 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0005.png
-  artifactKey: Guid(8ed6c21ee73f60e429c6a6907d83ba23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0005.png using Guid(8ed6c21ee73f60e429c6a6907d83ba23) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7b6bc5d610343dbb5f9e7c0d2b519982') in 0.010972 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0004.png
-  artifactKey: Guid(be7d74ab164dbde47b155e96d45599c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0004.png using Guid(be7d74ab164dbde47b155e96d45599c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6697cbeeee181bf3e98d70cd1244b22b') in 0.0103353 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0008.png
-  artifactKey: Guid(1c24a390ea543e7488ebd73f874a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0008.png using Guid(1c24a390ea543e7488ebd73f874a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9b29f225c455e0fba94e492ca77d3244') in 0.0077496 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.814750 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0017.png
-  artifactKey: Guid(e5d72a65f35b3744cac6f2b269765e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0017.png using Guid(e5d72a65f35b3744cac6f2b269765e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '64d0fc1a89c6058edf3deefda78c18f4') in 0.0084652 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.026584 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0000.png
-  artifactKey: Guid(14996be936d4dd94e92911642a72daf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0000.png using Guid(14996be936d4dd94e92911642a72daf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68515cbd080ac6bc8b15d0ceddacc58a') in 0.0102747 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0015.png
-  artifactKey: Guid(f58680283038a914588c4e1f45175def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0015.png using Guid(f58680283038a914588c4e1f45175def) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b3f7801c84299d4e48cb8924d665eb01') in 0.0101933 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0016.png
-  artifactKey: Guid(08994ca143d774945ba4455c872cc6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0016.png using Guid(08994ca143d774945ba4455c872cc6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b3ef81ca571b9632256bb4a1a3ccf37') in 0.0086705 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0011.png
-  artifactKey: Guid(5b6041f457f618444a00a6a31971bbfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0011.png using Guid(5b6041f457f618444a00a6a31971bbfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd7d485621321ec42b7e6a9b1c93a951c') in 0.0102759 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0009.png
-  artifactKey: Guid(5ea53a883a8e7ae4e99821e200fc3de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0009.png using Guid(5ea53a883a8e7ae4e99821e200fc3de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65230a834fa221531741c719a15479dc') in 0.0115278 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0006.png
-  artifactKey: Guid(b946b7941853d4948800eaa5561471c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/karsiori/Sprites/Pixel Art Key Pack - Animated/Key 5/GOLD/Key 5 - GOLD - frame0006.png using Guid(b946b7941853d4948800eaa5561471c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '157fb19e2f34272f101247e2cc778f95') in 0.0083962 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
-
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.816 seconds
-Refreshing native plugins compatible for Editor in 1.60 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.856 seconds
-Domain Reload Profiling: 1674ms
-	BeginReloadAssembly (239ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (15ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (65ms)
-	RebuildCommonClasses (37ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (33ms)
-	LoadAllAssembliesAndSetupDomain (495ms)
-		LoadAssemblies (388ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (222ms)
-			TypeCache.Refresh (6ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (199ms)
-			ResolveRequiredComponents (13ms)
-	FinalizeReload (858ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (650ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (3ms)
-			SetLoadedEditorAssemblies (6ms)
-			BeforeProcessingInitializeOnLoad (128ms)
-			ProcessInitializeOnLoadAttributes (425ms)
-			ProcessInitializeOnLoadMethodAttributes (78ms)
-			AfterProcessingInitializeOnLoad (10ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (13ms)
-Refreshing native plugins compatible for Editor in 2.68 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6560 unused Assets / (4.6 MB). Loaded Objects now: 7297.
-Memory consumption went from 150.4 MB to 145.8 MB.
-Total: 12.320400 ms (FindLiveObjects: 0.854000 ms CreateObjectMapping: 1.116900 ms MarkObjects: 6.221000 ms  DeleteObjects: 4.127300 ms)
-
-Prepare: number of updated asset objects reloaded= 0
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting

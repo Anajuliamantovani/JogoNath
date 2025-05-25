@@ -1,7 +1,7 @@
-using Mono.Cecil;
+//using Mono.Cecil;
 using UnityEngine;
-using static System.Runtime.CompilerServices.RuntimeHelpers;
-using UnityEngine.Windows;
+//using static System.Runtime.CompilerServices.RuntimeHelpers;
+//using UnityEngine.Windows;
 using UnityEngine.Tilemaps;
 
 public class Player : MonoBehaviour
@@ -13,6 +13,9 @@ public class Player : MonoBehaviour
     [SerializeField] private GameObject muro;
     [SerializeField] private Sprite bauAberto;
     [SerializeField] private GameObject superBau;
+    [SerializeField] private Sprite bauSupremoAberto;
+    [SerializeField] private GameObject[] videos;
+    [SerializeField] private GameObject musiquinha;
 
     [SerializeField] bool chaveAzul;
     [SerializeField] bool chaveVerde;
@@ -21,13 +24,12 @@ public class Player : MonoBehaviour
 
     [SerializeField] bool abrirBau;
 
-    bool bauAzul;
-    bool bauVerde;
-    bool bauRosa;
-    bool bauRoxo;
-    bool bauSupremo;
+    [SerializeField] bool bauAzul;
+    [SerializeField] bool bauVerde;
+    [SerializeField] bool bauRosa;
+    [SerializeField] bool bauRoxo;
 
-    GameObject item;
+    GameObject bau;
     void Start()
     {
        posicaoInicial = transform.position;
@@ -37,6 +39,7 @@ public class Player : MonoBehaviour
     {
         movimento();
         acoes();
+        aparecerBau();
     }
     public void movimento()
     {
@@ -70,10 +73,22 @@ public class Player : MonoBehaviour
 
     void acoes()
     {
-        if (item != null && abrirBau == true && UnityEngine.Input.GetKeyDown(KeyCode.E))
+        if (bau != null && abrirBau == true && UnityEngine.Input.GetKeyDown(KeyCode.E))
         {
-            item.GetComponent<SpriteRenderer>().sprite = bauAberto;
+            bau.GetComponent<SpriteRenderer>().sprite = bauAberto;
+            if (bau.name == "superBau")
+            {
+                bau.GetComponent<SpriteRenderer>().sprite = bauSupremoAberto;
+                videos[0].SetActive(true);
+                musiquinha.SetActive(false);
+            }
         }
+    }
+
+    public void sairTela()
+    {
+        videos[0].SetActive(false); 
+        musiquinha.SetActive(true);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -112,37 +127,35 @@ public class Player : MonoBehaviour
         if (collision.gameObject.name == "BauRoxo" && chaveRoxa == true)
         {
             abrirBau = true;
-            item = collision.gameObject;
+            bauRoxo = true;
+            bau = collision.gameObject;
         }
 
         if (collision.gameObject.name == "BauRosa" && chaveRosa == true)
         {
             abrirBau = true;
-            item = collision.gameObject;
+            bauRosa = true;
+            bau = collision.gameObject;
         }
 
         if (collision.gameObject.name == "BauVerde"  && chaveVerde == true)
         {
             abrirBau = true;
-            item = collision.gameObject;
+            bauVerde = true;
+            bau = collision.gameObject;
         }
 
         if (collision.gameObject.name == "BauAzul"  && chaveAzul == true)
         {
             abrirBau = true;
-            item = collision.gameObject;
+            bauAzul = true;
+            bau = collision.gameObject;
         }
 
-        if (bauAzul == true && bauRosa == true && bauRoxo == true && bauVerde == true)
+        if (collision.gameObject.name == "superBau")
         {
-            bauSupremo = true;
-            superBau.SetActive(true);
-
-            if (collision.gameObject.name == "bauSupremo" && UnityEngine.Input.GetKeyDown(KeyCode.E))
-            {
-                abrirBau = true;
-                item = collision.gameObject;
-            }
+            abrirBau = true;
+            bau = collision.gameObject;
         }
 
     }
@@ -160,6 +173,14 @@ public class Player : MonoBehaviour
 
     }
 
+    void aparecerBau()
+    {
+        if (bauAzul == true && bauRosa == true && bauRoxo == true && bauVerde == true)
+        {
+            superBau.SetActive(true);
+        }
+    }
+
     private void OnTriggerExit2D(Collider2D collision)
     {
         if(collision.gameObject.name == "Escada")
@@ -170,34 +191,34 @@ public class Player : MonoBehaviour
         if (collision.gameObject.name == "BauRoxo" && chaveRoxa == true)
         {
             abrirBau = false;
-            item = null;
+            bau = null;
         }
 
         if (collision.gameObject.name == "BauRosa" && chaveRosa == true)
         {
             abrirBau = false;
-            item = null;
+            bau = null;
         }
 
         if (collision.gameObject.name == "BauVerde" && chaveVerde == true)
         {
             abrirBau = false;
-            item = null;
+            bau = null;
         }
 
         if (collision.gameObject.name == "BauAzul" && chaveAzul == true)
         {
             abrirBau = false;
-            item = null;
+            bau = null;
         }
 
         if (bauAzul == true && bauRosa == true && bauRoxo == true && bauVerde == true)
         {
           
-            if (collision.gameObject.name == "bauSupremo" && UnityEngine.Input.GetKeyDown(KeyCode.E))
+            if (collision.gameObject.name == "superBau")
             {
                 abrirBau = false;
-                item = null;
+                bau = null;
             }
         }
 

@@ -82,13 +82,38 @@ public class Player : MonoBehaviour
                 videos[0].SetActive(true);
                 musiquinha.SetActive(false);
             }
+            if(bau.name == "BauAzul")
+            {
+                videos[1].SetActive(true);
+                musiquinha.SetActive(false);
+            }
+            if(bau.name == "BauRosa")
+            {
+                videos[2].SetActive(true);
+                musiquinha.SetActive(false);
+            }
+            if(bau.name == "BauVerde")
+            {
+                videos[3].SetActive(true);
+                musiquinha.SetActive(false);
+            }
+            if (bau.name == "BauRoxo")
+            {
+                videos[4].SetActive(true);
+                musiquinha.SetActive(false);
+            }
+
         }
     }
 
     public void sairTela()
     {
-        videos[0].SetActive(false); 
-        musiquinha.SetActive(true);
+        videos[0].SetActive(false); //Bastardidnha
+        videos[1].SetActive(false); //MichaelMyers
+        videos[2].SetActive(false); //CatJumpScare
+        videos[3].SetActive(false); //Gatitos
+        videos[4].SetActive(false); //
+        musiquinha.SetActive(true); //
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
